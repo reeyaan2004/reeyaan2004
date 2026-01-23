@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Reeyaan 👋
 
-<!--
-**reeyaan2004/reeyaan2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Computer Engineering student at **McGill University** (Software Engineering minor), based in Montreal.
 
-Here are some ideas to get you started:
+I’m interested in building systems that sit at the intersection of **hardware and software** — especially **embedded systems, robotics, and full-stack applications** that interact with the real world. I enjoy low-level programming, system design, and turning ideas into working prototypes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+**Programming Languages**
+Python, Java, C, C++, JavaScript, ARMv7 Assembly, VHDL, MATLAB
+
+**Web & Software**
+React.js, Tailwind CSS, Spring Boot, HTML, CSS
+
+**Embedded & Hardware**
+Embedded Systems, PCB Design (Altium), Digital & Analog Circuits, Microcontrollers, Firmware Development
+
+**Tools & Platforms**
+Git, GitHub, Bitbucket, LTspice, Google Gemini API, face-api.js
