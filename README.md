@@ -1,4 +1,4 @@
-# Hi, I'm Reeyaan 👋
+Hi, I'm Reeyaan 👋
 
 🎓 Electrical & Computer Engineering student at **McGill University** (Software Engineering minor), based in Montreal.
 
