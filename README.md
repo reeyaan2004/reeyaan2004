@@ -19,3 +19,13 @@ Embedded Systems, PCB Design (Altium), Digital & Analog Circuits, Microcontrolle
 
 **Tools & Platforms**
 Git, GitHub, Bitbucket, LTspice, Google Gemini API, face-api.js
+
+---
+<h2>🛠️ Languages & Tools</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,arch,bash,powershell,vscode,vim,c,cpp,java,py,js,html,css,docker,fastapi,gradle,latex,matlab,postgres,pytorch,raspberrypi,tensorflow,react,git,github,gitlab&perline=7" />
+  </a>
+</p>
+
+---
